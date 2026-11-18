@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "paquetes": [
+  {
+   "id": "sonidos-forgecut",
+   "name": {
+    "es": "Sonidos ForgeCut",
+    "en": "ForgeCut Sounds"
+   },
+   "type": "sounds",
+   "version": "1.0.0",
+   "count": 70,
+   "license": "CC0-1.0",
+   "author": "ForgeCut",
+   "size": 10017499,
+   "sha256": "e1e59b4fd1f738e711828a34f1d5e48c52c10ad67f5d69cfd73deb8a03ec9f09",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/sonidos-forgecut-1.0.0/sonidos-forgecut-1.0.0.fcpak"
+  }
+ ]
+}
