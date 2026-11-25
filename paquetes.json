@@ -53,6 +53,25 @@
    "size": 12409,
    "sha256": "98046da9d801dec72bbb0d70fef575e626b038f58ea9271158a0d206c889573d",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-vhs-0.1.0/forge-vhs-0.1.0.fcpak"
+  },
+  {
+   "id": "forge-master-vhs",
+   "name": {
+    "es": "Forge Master VHS",
+    "en": "Forge Master VHS"
+   },
+   "description": {
+    "es": "Emulador de señal VHS con control total: cinta, señal compuesta, ruidos, distorsiones y modulación.",
+    "en": "VHS signal emulator with full control: tape, composite signal, noise, distortion and modulation."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.1.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 22745,
+   "sha256": "74672dc67d25bf2875a6a3a19b2ad7f60a54ab2f8623f6e4b59cfd7c324419a3",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-master-vhs-0.1.0/forge-master-vhs-0.1.0.fcpak"
   }
  ]
 }
