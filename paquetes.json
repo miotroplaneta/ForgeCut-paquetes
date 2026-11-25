@@ -34,6 +34,25 @@
    "size": 30322,
    "sha256": "0282408b5cc7bd72a3ae44a20bd7e79046bb3e025f081318e2f541982b2ac2b9",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-rain-0.9.0/forge-rain-0.9.0.fcpak"
+  },
+  {
+   "id": "forge-vhs",
+   "name": {
+    "es": "Forge VHS",
+    "en": "Forge VHS"
+   },
+   "description": {
+    "es": "Aspecto de cinta VHS: color corrido, líneas de ruido, temblor, bloques, grano y ruido de cabezal.",
+    "en": "VHS tape look: bleeding colour, noise lines, jitter, blocks, grain and head-switching noise."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.1.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 12409,
+   "sha256": "98046da9d801dec72bbb0d70fef575e626b038f58ea9271158a0d206c889573d",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-vhs-0.1.0/forge-vhs-0.1.0.fcpak"
   }
  ]
 }
