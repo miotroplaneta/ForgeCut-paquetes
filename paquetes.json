@@ -15,6 +15,25 @@
    "size": 10017499,
    "sha256": "e1e59b4fd1f738e711828a34f1d5e48c52c10ad67f5d69cfd73deb8a03ec9f09",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/sonidos-forgecut-1.0.0/sonidos-forgecut-1.0.0.fcpak"
+  },
+  {
+   "id": "forge-rain",
+   "name": {
+    "es": "Forge Rain",
+    "en": "Forge Rain"
+   },
+   "description": {
+    "es": "Lluvia realista sobre vidrio: gotas que se unen, crecen y escurren, con refracción, vaho y desenfoque.",
+    "en": "Realistic rain on glass: drops that merge, grow and run, with refraction, condensation and defocus."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.9.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 30322,
+   "sha256": "0282408b5cc7bd72a3ae44a20bd7e79046bb3e025f081318e2f541982b2ac2b9",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-rain-0.9.0/forge-rain-0.9.0.fcpak"
   }
  ]
 }
