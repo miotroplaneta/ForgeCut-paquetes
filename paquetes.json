@@ -91,6 +91,25 @@
    "size": 20857,
    "sha256": "22f7f8c2b0086edd0d7dbfca4e0c8f7d5d1a59dce1b53eb2ed1743c0565b2af0",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-retro-film-0.1.0/forge-retro-film-0.1.0.fcpak"
+  },
+  {
+   "id": "forge-doodle-outline",
+   "name": {
+    "es": "Forge Doodle Outline",
+    "en": "Forge Doodle Outline"
+   },
+   "description": {
+    "es": "Contornos dibujados a mano alrededor de las formas del video o del texto: varias líneas, degradados, tiza, zigzag y animación tipo garabato.",
+    "en": "Hand-drawn outlines around the shapes of your video or text: multiple lines, gradients, chalk, zig-zag and boiling doodle animation."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.1.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 19750,
+   "sha256": "676f495b183bd001038a498dde3514bf2d035c481049c048cd2ed6ce567083fe",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-doodle-outline-0.1.0/forge-doodle-outline-0.1.0.fcpak"
   }
  ]
 }
