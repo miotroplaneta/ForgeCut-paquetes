@@ -72,6 +72,25 @@
    "size": 22745,
    "sha256": "74672dc67d25bf2875a6a3a19b2ad7f60a54ab2f8623f6e4b59cfd7c324419a3",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-master-vhs-0.1.0/forge-master-vhs-0.1.0.fcpak"
+  },
+  {
+   "id": "forge-retro-film",
+   "name": {
+    "es": "Forge Retro Film",
+    "en": "Forge Retro Film"
+   },
+   "description": {
+    "es": "Look de película antigua todo en uno: gradación por década, grano, suciedad, pelos, rayones, parpadeo, resplandor y cuadro con bordes rasgados.",
+    "en": "All-in-one vintage film look: decade grades, grain, dirt, hairs, scratches, flicker, halation and a torn-edge film frame."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.1.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 20857,
+   "sha256": "22f7f8c2b0086edd0d7dbfca4e0c8f7d5d1a59dce1b53eb2ed1743c0565b2af0",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-retro-film-0.1.0/forge-retro-film-0.1.0.fcpak"
   }
  ]
 }
