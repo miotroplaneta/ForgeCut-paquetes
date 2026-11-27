@@ -110,6 +110,25 @@
    "size": 19750,
    "sha256": "676f495b183bd001038a498dde3514bf2d035c481049c048cd2ed6ce567083fe",
    "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-doodle-outline-0.1.0/forge-doodle-outline-0.1.0.fcpak"
+  },
+  {
+   "id": "forge-glitch",
+   "name": {
+    "es": "Forge Glitch",
+    "en": "Forge Glitch"
+   },
+   "description": {
+    "es": "Glitch estilizado: bloques que se rompen con desplazamiento, separación RGB, rayas, semitono, temblores y color desbordado.",
+    "en": "Stylized glitch: breaking blocks with displacement, RGB split, stripes, halftone, jitter and colour wrap."
+   },
+   "type": "video-effect",
+   "tier": "pro",
+   "version": "0.1.0",
+   "license": "Propietaria",
+   "author": "ForgeMasterCut",
+   "size": 12268,
+   "sha256": "0551859b1e03a89c21e9d2ac6e9d837d57dec5b3655dc840586c59b2802d27dc",
+   "url": "https://github.com/miotroplaneta/ForgeCut-paquetes/releases/download/forge-glitch-0.1.0/forge-glitch-0.1.0.fcpak"
   }
  ]
 }
